@@ -13,39 +13,26 @@ Live App (Figma Prototype)
 The prototype demonstrates the complete application flow, including:
 
 User signup and login screens
-
 Case creation and case workflow screens
-
 Document upload and reference pages
-
 Case status tracking and progress dashboard
-
 A court-oriented, professional UI design following legal-tech standards
 
 Implemented Features and Functionalities
 
 Secure user authentication flow (signup & login)
-
 Structured case creation and management flow
-
 Document upload interface for legal case records
-
 Case status and progress tracking dashboard
-
 Professional, minimal, and court-grade UI design
-
 User-friendly navigation with clear workflow structure
 
 Technologies, Tools, and Methodologies Used
 
 Figma – Used for complete UI/UX design, screen layouts, and interactive prototyping
-
 User-Centric Design Approach – Designed with real-world legal workflows in mind
-
 Wireframing to High-Fidelity Prototyping – From initial structure to detailed screens
-
 Component-Based Design Methodology – Reusable and consistent UI components across the app
-
 Iterative Design Process – Continuous refinement to improve clarity and usability
 
 Internship Note
