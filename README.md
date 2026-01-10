@@ -10,6 +10,9 @@ Live App (Figma Prototype)
 
 🔗 https://viola-horse-12454900.figma.site/
 
+Demo video: 
+https://drive.google.com/file/d/1-_SEouldsJ547cjlH2RU_k5xQgiKU6dh/view?usp=drivesdk
+
 The prototype demonstrates the complete application flow, including:
 
 User signup and login screens
